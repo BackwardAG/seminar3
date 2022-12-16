@@ -1,7 +1,9 @@
+# Instruction on Git
+
 Точка в начале имени в системах (посикс) = скрытая папка
 
 (init commit
 
 )
 
-# Instruction on Git
+
