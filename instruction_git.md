@@ -24,3 +24,22 @@ Git это программа для ...
 Для того, чтобы добавить изменения к отследиванию (в "индекс") нужно выполнить команду:
     git add <filename>
 
+ДЗ: 
+    git init
+    git status
+    git add <filename>
+    git commit
+    git commit -m "message"
+    git commit -a
+    git commit -am "message"
+    git log
+    git log --oneline
+    git log -all
+    git log --oneline --all
+    git checkout
+    git checkout master
+    git 
+
+## Как сдавать ДЗ - смотрим на папку (**всю папку** архивируем(zip/7z))  
+
+
