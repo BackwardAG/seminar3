@@ -123,5 +123,9 @@ Git это программа для ...
     git branch 
 
 test newbranch 1
+
 test newbranch 2
 
+### создание новой ветки
+
+чтобы создать новую ветку
