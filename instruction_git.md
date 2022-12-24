@@ -168,6 +168,12 @@ test newbranch 2
 
     git checkout <branchname>
 
+## Как сливать ветки
+
+Чтобы слить ветки, необходимо воспользоваться командой 
+
+    git merge <branchname>
+
 
 ## Как сливатьь ветки
 
