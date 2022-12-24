@@ -175,9 +175,7 @@ test newbranch 2
     git merge <branchname>
 
 
-## Как сливать ветки 
 
-Making a conflict
 
 
 
