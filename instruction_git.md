@@ -169,6 +169,8 @@ test newbranch 2
     git checkout <branchname>
 
 
+## Слияние веток 
+
 
 
 
