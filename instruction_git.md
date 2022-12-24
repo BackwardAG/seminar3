@@ -179,8 +179,9 @@ test newbranch 2
 
 Making a conflict
 
+## Как сливать ветки
 
-
+Making a conflict
 
 
 
